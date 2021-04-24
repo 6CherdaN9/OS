@@ -1,13 +1,13 @@
 Чтобы запустить приёмник:
 
 
-#### gcc receiver.c -o r && ./r
+gcc receiver.c -o r && ./r
 
 
 Чтобы отправить сигнал:
 
 
-#### gcc emitter.c -o e && ./e <PID> <SIGNAL>
+gcc emitter.c -o e && ./e <PID> <SIGNAL>
 
 
 Где
