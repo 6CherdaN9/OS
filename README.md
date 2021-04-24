@@ -1,1 +1,1 @@
-### gcc calculatot.c -o calc && ./calc
+### gcc calculator.c -o calc && ./calc
