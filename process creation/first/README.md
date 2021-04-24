@@ -1,1 +1,1 @@
-### gcc solution.c -o first && ./first
+### gcc task.c -o first && ./first
